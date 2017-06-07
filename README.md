@@ -7,8 +7,13 @@ The new scouting app will include:
 + Data displays in form of graphs, charts, etc 
 
 Using:
-+ Jekyll
++ [Jekyll][1]
 + GitHub Pages
-+ Firebase
-+ Cloudflare
-+ Docker
++ [Firebase][2]
++ [Cloudflare][3]
++ [Docker][4]
+
+[1]:https://jekyllrb.com/
+[2]:https://firebase.google.com/
+[3]:https://www.cloudflare.com/
+[4]:https://www.docker.com/
